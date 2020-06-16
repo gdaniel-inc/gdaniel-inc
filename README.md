@@ -1,1 +1,0 @@
-# gdaniel-inc.github.io
