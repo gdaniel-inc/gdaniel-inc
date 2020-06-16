@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/gdaniel-inc.github.io/static/css/main.22697cd5.chunk.css",
+    "main.js": "/gdaniel-inc.github.io/static/js/main.074048c3.chunk.js",
+    "main.js.map": "/gdaniel-inc.github.io/static/js/main.074048c3.chunk.js.map",
+    "runtime-main.js": "/gdaniel-inc.github.io/static/js/runtime-main.f322e284.js",
+    "runtime-main.js.map": "/gdaniel-inc.github.io/static/js/runtime-main.f322e284.js.map",
+    "static/css/2.60325dfa.chunk.css": "/gdaniel-inc.github.io/static/css/2.60325dfa.chunk.css",
+    "static/js/2.cc3bd682.chunk.js": "/gdaniel-inc.github.io/static/js/2.cc3bd682.chunk.js",
+    "static/js/2.cc3bd682.chunk.js.map": "/gdaniel-inc.github.io/static/js/2.cc3bd682.chunk.js.map",
+    "index.html": "/gdaniel-inc.github.io/index.html",
+    "precache-manifest.b50e8b9ef31a8a0dc011837cc8bd74a8.js": "/gdaniel-inc.github.io/precache-manifest.b50e8b9ef31a8a0dc011837cc8bd74a8.js",
+    "service-worker.js": "/gdaniel-inc.github.io/service-worker.js",
+    "static/css/2.60325dfa.chunk.css.map": "/gdaniel-inc.github.io/static/css/2.60325dfa.chunk.css.map",
+    "static/css/main.22697cd5.chunk.css.map": "/gdaniel-inc.github.io/static/css/main.22697cd5.chunk.css.map",
+    "static/js/2.cc3bd682.chunk.js.LICENSE.txt": "/gdaniel-inc.github.io/static/js/2.cc3bd682.chunk.js.LICENSE.txt",
+    "static/media/header_bg.mp4": "/gdaniel-inc.github.io/static/media/header_bg.8d8d640d.mp4",
+    "static/media/works-1.jpg": "/gdaniel-inc.github.io/static/media/works-1.11725d48.jpg",
+    "static/media/works-2.jpg": "/gdaniel-inc.github.io/static/media/works-2.86119bda.jpg",
+    "static/media/works-3.jpg": "/gdaniel-inc.github.io/static/media/works-3.9ba33329.jpg",
+    "static/media/works-4.jpg": "/gdaniel-inc.github.io/static/media/works-4.138acc8a.jpg",
+    "static/media/works-5.jpg": "/gdaniel-inc.github.io/static/media/works-5.b9ed2f12.jpg",
+    "static/media/works-6.jpg": "/gdaniel-inc.github.io/static/media/works-6.b1a00232.jpg",
+    "static/media/works-7.jpg": "/gdaniel-inc.github.io/static/media/works-7.46e822d3.jpg",
+    "static/media/works-8.jpg": "/gdaniel-inc.github.io/static/media/works-8.37416858.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f322e284.js",
+    "static/css/2.60325dfa.chunk.css",
+    "static/js/2.cc3bd682.chunk.js",
+    "static/css/main.22697cd5.chunk.css",
+    "static/js/main.074048c3.chunk.js"
+  ]
+}
