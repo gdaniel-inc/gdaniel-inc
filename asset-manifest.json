@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.24050d66.chunk.css",
-    "main.js": "/static/js/main.306cb224.chunk.js",
-    "main.js.map": "/static/js/main.306cb224.chunk.js.map",
+    "main.css": "/static/css/main.42cf8fea.chunk.css",
+    "main.js": "/static/js/main.addd3b83.chunk.js",
+    "main.js.map": "/static/js/main.addd3b83.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4e3483a9.js",
     "runtime-main.js.map": "/static/js/runtime-main.4e3483a9.js.map",
     "static/css/2.60325dfa.chunk.css": "/static/css/2.60325dfa.chunk.css",
-    "static/js/2.2a635e1e.chunk.js": "/static/js/2.2a635e1e.chunk.js",
-    "static/js/2.2a635e1e.chunk.js.map": "/static/js/2.2a635e1e.chunk.js.map",
+    "static/js/2.d181a424.chunk.js": "/static/js/2.d181a424.chunk.js",
+    "static/js/2.d181a424.chunk.js.map": "/static/js/2.d181a424.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.51049ee6d15f77874cb4e6d64df70a60.js": "/precache-manifest.51049ee6d15f77874cb4e6d64df70a60.js",
+    "precache-manifest.514f3ef3e2d2257360abe309d3d003a8.js": "/precache-manifest.514f3ef3e2d2257360abe309d3d003a8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.60325dfa.chunk.css.map": "/static/css/2.60325dfa.chunk.css.map",
-    "static/css/main.24050d66.chunk.css.map": "/static/css/main.24050d66.chunk.css.map",
-    "static/js/2.2a635e1e.chunk.js.LICENSE.txt": "/static/js/2.2a635e1e.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/static/media/home-header-bg.a1d6a36e.png",
+    "static/css/main.42cf8fea.chunk.css.map": "/static/css/main.42cf8fea.chunk.css.map",
+    "static/js/2.d181a424.chunk.js.LICENSE.txt": "/static/js/2.d181a424.chunk.js.LICENSE.txt",
+    "static/media/astronaut.svg": "/static/media/astronaut.6b2c82b9.svg",
+    "static/media/earth.svg": "/static/media/earth.ec9c38de.svg",
+    "static/media/App.scss": "/static/media/stars.55535540.svg",
+    "static/media/moon.svg": "/static/media/moon.9fae7645.svg",
+    "static/media/rocket.svg": "/static/media/rocket.7461c5ac.svg",
     "static/media/works-1.jpg": "/static/media/works-1.92ad09e2.jpg",
     "static/media/works-2.jpg": "/static/media/works-2.b5eee76d.jpg",
     "static/media/works-3.jpg": "/static/media/works-3.d86ff9e3.jpg",
@@ -27,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.4e3483a9.js",
     "static/css/2.60325dfa.chunk.css",
-    "static/js/2.2a635e1e.chunk.js",
-    "static/css/main.24050d66.chunk.css",
-    "static/js/main.306cb224.chunk.js"
+    "static/js/2.d181a424.chunk.js",
+    "static/css/main.42cf8fea.chunk.css",
+    "static/js/main.addd3b83.chunk.js"
   ]
 }
