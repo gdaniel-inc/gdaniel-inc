@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd23ef47c7c3351fbb96ca85895ddf3b",
+    "revision": "9511f7486bb8400932ff19a1bbc13669",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.60325dfa.chunk.css"
   },
   {
-    "revision": "c53659a471f0e64c824c",
+    "revision": "31eb580374042cfced75",
     "url": "/static/css/main.df481aac.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d181a424.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c53659a471f0e64c824c",
-    "url": "/static/js/main.a5704fa6.chunk.js"
+    "revision": "31eb580374042cfced75",
+    "url": "/static/js/main.e9cf4953.chunk.js"
   },
   {
     "revision": "5961b02d388122eae2ea",
@@ -52,31 +52,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/stars.55535540.svg"
   },
   {
-    "revision": "b8cf5cebf21ea0645b7a94ab34afbecb",
-    "url": "/static/media/works-1.b8cf5ceb.jpg"
+    "revision": "b2287e5e7a90dfc6cfbc763cb0c64081",
+    "url": "/static/media/works-1.b2287e5e.jpg"
   },
   {
-    "revision": "4e861f5bd16e6bd5d0f972e5f8a1231c",
-    "url": "/static/media/works-2.4e861f5b.jpg"
+    "revision": "f38c3ca7c54e87b61ef93ffe328251cc",
+    "url": "/static/media/works-2.f38c3ca7.jpg"
   },
   {
-    "revision": "662968eef8103b5ba70bfe9ed9af0a77",
-    "url": "/static/media/works-3.662968ee.jpg"
+    "revision": "7891c584970e786efeb5a950be1085a1",
+    "url": "/static/media/works-3.7891c584.jpg"
   },
   {
-    "revision": "635482521ff39c80b27279af83f50f2c",
-    "url": "/static/media/works-4.63548252.jpg"
+    "revision": "21c90ff0440104c5c0ce7e67c3d5c9d3",
+    "url": "/static/media/works-4.21c90ff0.jpg"
   },
   {
-    "revision": "4818c2132a16753026ecea3d74ec1130",
-    "url": "/static/media/works-5.4818c213.jpg"
+    "revision": "556731b95b8f5fdc0d8bafb82e6146ab",
+    "url": "/static/media/works-5.556731b9.jpg"
   },
   {
-    "revision": "7a7fe8d8730afe81843481371d49e77d",
-    "url": "/static/media/works-7.7a7fe8d8.jpg"
+    "revision": "9d0e7f174ab416f2dac6d7343af26970",
+    "url": "/static/media/works-7.9d0e7f17.jpg"
   },
   {
-    "revision": "5c9ff2504725fab37d3fc5f4e69dc8c7",
-    "url": "/static/media/works-8.5c9ff250.jpg"
+    "revision": "f188ab76404a166e12628af44ca1171d",
+    "url": "/static/media/works-8.f188ab76.jpg"
   }
 ]);
