@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fe5f2fa9f764b5ffc1509796fef1bdb",
+    "revision": "c69cf020c8941714bef2966758abcd35",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "bb42545c4ec243b9a6a3",
-    "url": "/static/css/main.4aaa6377.chunk.css"
+    "revision": "e854e451f2c3b0264359",
+    "url": "/static/css/main.8bc85b3b.chunk.css"
   },
   {
     "revision": "d28499339ee400b93e73",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.4adfa53e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb42545c4ec243b9a6a3",
+    "revision": "e854e451f2c3b0264359",
     "url": "/static/js/main.0ab3e3a0.chunk.js"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/billgates-img.a6f0c28e.jpg"
   },
   {
-    "revision": "daa259839027eda7c109c227a78a7bf5",
-    "url": "/static/media/home-header-bg-2.daa25983.jpg"
+    "revision": "181ce92ac2f2b4a07cca16e550d7e591",
+    "url": "/static/media/header-bg.181ce92a.jpg"
   },
   {
     "revision": "197269968500cad15a8d22a319f540f7",
